@@ -92,6 +92,7 @@ a{
 
 a:hover{
     color:#EAF6F6;
+    transition: .3s;
 }
 
 .btn {
